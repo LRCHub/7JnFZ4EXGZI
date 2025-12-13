@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "初恋サイクリング - 超ver",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2025-12-13T01:34:32.673858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋サイクリング",
+      "artist": "Tokimeki Sendenbu",
+      "has_synced": false,
+      "path": "select/01_初恋サイクリング_Tokimeki_Sendenbu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋サイクリング",
+      "artist": "ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/02_初恋サイクリング_ときめき♡宣伝部.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋サイクリング - 超ver",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_初恋サイクリング_-_超ver_超ときめき♡宣伝部.txt"
+    }
+  ]
+}
